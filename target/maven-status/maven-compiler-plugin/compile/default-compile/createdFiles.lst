@@ -1,0 +1,5 @@
+com\exemplo\importacoes\service\ImportacaoService.class
+com\exemplo\importacoes\model\Importacao.class
+com\exemplo\importacoes\repository\ImportacaoRepository.class
+com\exemplo\importacoes\ImportacoesApplication.class
+com\exemplo\importacoes\controller\ImportacaoController.class
